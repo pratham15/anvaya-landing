@@ -27,7 +27,7 @@ export default function RootLayout({
           inter.variable,
           poppins.variable,
           manrope.variable,
-          "bg-slate-200 h-[200vh]"
+          "bg-slate-200"
         )}
       >
         {children}
